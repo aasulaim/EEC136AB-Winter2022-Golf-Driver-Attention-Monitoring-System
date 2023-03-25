@@ -1,0 +1,7 @@
+    y = GPIO.input(inputPin2)
+    z = GPIO.input(inputPin3)
+
+    GPIO.output(outputPin,a)
+    GPIO.output(outputPin2,b)
+    GPIO.output(outputPin3,c)
+
